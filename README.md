@@ -40,9 +40,15 @@ namespace CM3D2.Example.Plugin
 
 ## コードの起源
 
-CM3D2-01さんの「[CM3D2：SystemShortcutにボタン追加](https://gist.github.com/CM3D2-01/adcf5072ff5ba812858a)」を基に改変しています
+@CM3D2-01 さんの「[CM3D2：SystemShortcutにボタン追加](https://gist.github.com/CM3D2-01/adcf5072ff5ba812858a)」を基に改変しています
 
 
 ## ライセンス
 
- - 調整中です
+以下の注意書きに従って利用してください
+
+> ### 注意書き
+>
+> 個人で楽しむ為の非公式Modです。
+> 転載・再配布・改変・改変物配布等はKISSに迷惑のかからぬ様、
+> 各自の判断・責任の下で行って下さい。
